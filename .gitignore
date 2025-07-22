@@ -1,0 +1,15 @@
+# Go artifacts
+bin/
+*.exe
+*.test
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Docker
+**/pgdata/
