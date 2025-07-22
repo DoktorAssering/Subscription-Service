@@ -9,8 +9,8 @@ REST-сервис на Go для управления и агрегации да
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-org/subscription-service.git
-cd subscription-service
+git clone https://github.com/DoktorAssering/Subscription-Service.git
+cd Subscription-Service
 ```
 
 ### 2. Создание файла окружения
