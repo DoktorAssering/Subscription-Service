@@ -139,5 +139,3 @@ GET /subscriptions/total?service=Netflix&userId=3fa85f64-5717-4562-b3fc-2c963f66
 * После изменения модели перезапускайте приложение для авто-миграции (`db.AutoMigrate`).
 * Проверяйте переменные окружения и совпадение портов `DB_HOST/DB_PORT`.
 * В случае ошибок модулей Go — запускайте `go clean -modcache && go mod tidy`.
-
----
